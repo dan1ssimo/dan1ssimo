@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GreatestCoder
-- 🌱 I’m currently learning Data Science, Analytics/SQL and Project Management.
+- 🐍 Python developer
+- 🌱 I’m currently learning Data Science, Analytics and Backend
 - 💞️ I’m looking to collaborate on Napoleon IT
 - 📫 How to reach me: danildorofeev2002@gmail.com
 

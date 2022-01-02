@@ -4,7 +4,7 @@
   Welcome! 👋
 <br>
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-- :credit_card: My full name is **Dorofeev Danil Alexandrovich** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/Crimson_Haze)
+- :credit_card: My full name is **Danil Dorofeev** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/Crimson_Haze)
 - :school: I'm currently 2rd year student at **South-Ural State University**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Chelyabinsk, Russia**

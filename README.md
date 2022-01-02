@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"></img>
   
-  Hi 👋, I'm Danil !
+  Welcome! 👋
 <br>
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 - :credit_card: My full name is **Dorofeev Danil Alexandrovich** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/Crimson_Haze)
@@ -38,7 +38,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danildorofeev2002@gmail.com)
+[![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)]
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Danissimo](https://github.com/dan1ssimo)

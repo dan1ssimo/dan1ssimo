@@ -38,7 +38,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)]
+![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Danissimo](https://github.com/dan1ssimo)

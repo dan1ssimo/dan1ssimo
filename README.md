@@ -1,5 +1,43 @@
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  
+  Hi 👋, I'm Danil !
+<br>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+- :credit_card: My full name is **Dorofeev Danil Alexandrovich** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/Crimson_Haze)
+- :school: I'm currently 2rd year student at **South-Ural State University**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Chelyabinsk, Russia**
+- :sweat_smile: I'm a newbie in coding, now I'm focus on learning Web Development.
+- :monocle_face: I'm interested in coding and watching TV Shows
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+  
+### 🛠 Tech Stack
 
-<!---
-GreatestCoder/GreatestCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+
+<!-- ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
+![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
+![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white) -->
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+
+### 💬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danildorofeev2002@gmail.com)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+[Danissimo](https://github.com/dan1ssimo)

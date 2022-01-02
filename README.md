@@ -1,6 +1,5 @@
 <h3 align="center">
-  
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"></img>
   
   Hi 👋, I'm Danil !
 <br>
@@ -21,7 +20,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
+![Github](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
 
 <!-- ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
@@ -33,7 +35,6 @@
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white) -->
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 
 ### 💬 Contact Me
 

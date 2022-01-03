@@ -9,8 +9,6 @@
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Chelyabinsk, Russia**
 - :sweat_smile: I'm a newbie in coding, now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding and watching TV Shows
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
   
 ### 🛠 Tech Stack
 

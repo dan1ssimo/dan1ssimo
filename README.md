@@ -8,7 +8,7 @@
 - :school: I'm currently 2nd year student at **South-Ural State University**
 - :books: My major is **Software Engineering**
 - :earth_asia: Now I'm living in **Chelyabinsk, Russia**
-- :sweat_smile: Now I'm focused on learning Web Development.
+- :sweat_smile: I'm focused on learning Web Development.
   
 ### 🛠 Tech Stack
 

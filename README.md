@@ -13,16 +13,18 @@
 ### 🛠 Tech Stack
 
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+<!-- ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white) -->
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=Mysql&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=Mysql&logoColor=white) -->
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
+<!-- ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black) -->
+<!-- ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git) -->
+<!-- ![Github](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github) -->
 
+<!-- ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=react&logoColor=60DAFB) -->
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-6C6C6C?style=flat-square&logo=laravel&logoColor=F05340) -->
 <!-- ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)

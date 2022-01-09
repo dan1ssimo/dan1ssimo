@@ -16,13 +16,13 @@
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 
-
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=Bootstrap&logoColor=white)
+### 📚 Currently Learning
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=Bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-131b28?style=flat-square&logo=JQuery&logoColor=0868ac)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=react&logoColor=60DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=node.js&logoColor=3c873a)
+<!--![NodeJS](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=node.js&logoColor=3c873a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3f3e42?style=flat-square&logo=mongodb&logoColor=4db33d)
 
 ![PHP](http://img.shields.io/badge/-PHP-767bb3?style=flat-square&logo=php&logoColor=white)

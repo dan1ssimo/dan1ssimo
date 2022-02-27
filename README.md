@@ -16,7 +16,7 @@
 ![Numpy](https://img.shields.io/badge/-NumPy-4DABCF?style=flat-square&logo=NumPy&logoColor=white)
 
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)V
+![Linux](https://img.shields.io/badge/-Linux-ghostwhite?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
 

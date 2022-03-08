@@ -4,7 +4,7 @@
   Welcome! 👋
 <br>
 ## 📋 About Me
-- :credit_card: My full name is **Danil Dorofeev** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/Crimson_Haze)
+- :credit_card: My full name is **Danil Dorofeev** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/dan_is_simo)
 - :school: I'm currently 2nd year student at **South-Ural State University**
 - :books: My major is **Software Engineering**
 - :earth_asia: Now I'm living in **Chelyabinsk, Russia**
@@ -32,6 +32,6 @@
 ### 💬 Contact Me
 
 ![Gmail](https://img.shields.io/badge/-danildorofeev2002@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)
-
+![LinkedIn](https://img.shields.io/badge/-Danissimo-0e76A8?style=for-the-badge&logo=linkedin&logoColor=white)
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Danissimo](https://github.com/dan1ssimo)

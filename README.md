@@ -8,7 +8,6 @@
 - :school: I'm currently 2nd year student at **South-Ural State University**
 - :books: My major is **Software Engineering**
 - :earth_asia: Now I'm living in **Chelyabinsk, Russia**
-- :sweat_smile: KISS & Dry follower
   
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=white)
@@ -23,7 +22,6 @@
 ### 📚 Currently Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-E6E6E6?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-262626?style=flat-square&logo=PyTorch&logoColor=orange)
-![GO](https://img.shields.io/badge/-Golang-4DD0E1?style=flat-square&logo=go&logoColor=white)
 
 <!-- 
 ![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)

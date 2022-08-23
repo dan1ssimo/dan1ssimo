@@ -11,21 +11,15 @@
   
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-NumPy-4DABCF?style=flat-square&logo=NumPy&logoColor=white)
-
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-ghostwhite?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-
-### 📚 Currently Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-E6E6E6?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-262626?style=flat-square&logo=PyTorch&logoColor=orange)
 
-<!-- 
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white) -->
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/-NumPy-4DABCF?style=flat-square&logo=NumPy&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
+![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+
+<!-- ### 📚 Currently Learning -->
 
 ### 💬 Contact Me
 

@@ -5,7 +5,7 @@
 <br>
 ## 📋 About Me
 - :credit_card: My full name is **Danil Dorofeev** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/dan_is_simo)
-- :school: I'm currently 3nd year student at **South-Ural State University**
+- :school: I'm currently 3rd year student at **South-Ural State University**
 - :books: My major is **Data Science**
 - :earth_asia: Now I'm living in **Chelyabinsk, Russia**
   
@@ -18,6 +18,7 @@
 ![Numpy](https://img.shields.io/badge/-NumPy-4DABCF?style=flat-square&logo=NumPy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
 ![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 <!-- ### 📚 Currently Learning -->
 

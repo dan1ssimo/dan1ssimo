@@ -5,7 +5,7 @@
 <br>
 ## 📋 About Me
 - :credit_card: My full name is **Danil Dorofeev** [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/dan_is_simo)
-- :school: I'm currently 3rd year student at **South-Ural State University**
+- :school: I'm currently 4th year student at **South-Ural State University**
 - :books: My major is **Data Science**
 - :earth_asia: Now I'm living in **Chelyabinsk, Russia**
   
